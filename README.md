@@ -7,6 +7,8 @@
 | grafana                         | admin         | admin         |
 | Jenkins                         | admin         | password      |
 | Sonarqube                       | admin         | admin         |
+| gitlab                          | root          | 5iveL!fe      |
+
 
 
 
