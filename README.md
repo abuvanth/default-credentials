@@ -8,6 +8,8 @@
 | Jenkins                         | admin         | password      |
 | Sonarqube                       | admin         | admin         |
 | gitlab                          | root          | 5iveL!fe      |
+| zabbix                          | admin         | (No Password) |
+
 
 
 
